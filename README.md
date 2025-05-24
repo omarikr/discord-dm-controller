@@ -33,8 +33,7 @@ cd discord-dm-controller
 2. Edit the script and replace:
 ```
 TOKEN = "YOUR_BOT_TOKEN"
-CONTROLLER_ID = 1066707409206267914
-```
+CONTROLLER_ID = 9876543210987986
 3. Install dependencies
 ```
    pip install -U discord.py
